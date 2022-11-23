@@ -29,7 +29,7 @@ on the movie db to get access to the APIs.</p>
 
 <ol>
 <li>Obtain api key from <a href ="https://www.themoviedb.org/">TMDB</a>.</li>
-<li>Replace YOUR_API_KEY in api_constants.dart with your api key.</li>
+<li>Replace YOUR_API_KEY in app_config.dart with your api key.</li>
 <li>Run the app with <b>flutter run --release</b></li>
 
 </ol>
